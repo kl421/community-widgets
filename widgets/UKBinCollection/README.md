@@ -1,6 +1,8 @@
 # GlanceUKBinWidget
 UK Bin Collection Widget for Glance Dashboard - Credit to Robert Bradley for the original project https://github.com/robbrad/UKBinCollectionData
 
+![Fixture widget preview](./preview.png)
+
 # UK Bin Collection
 
 A custom widget for [Glance](https://github.com/glanceapp/glance) that displays upcoming rubbish and recycling collection dates for UK households. 
